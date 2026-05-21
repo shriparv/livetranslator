@@ -1,0 +1,6 @@
+{
+  "name": "Camera Translator",
+  "description": "Translate text live from your camera using Gemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
